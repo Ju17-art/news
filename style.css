@@ -32,6 +32,7 @@ h1 {
     content: "New ";
     color: #ff6b88;
     font-weight: bold;
+    font-style: italic;
 }
 
 article {
