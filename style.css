@@ -9,12 +9,12 @@ header {
     justify-content: center;
     height: 400px;
     background-color: #d0d1d3;
-    background: url('https://unsplash.com/photos/g2MossmxZNs/download?force=true&w=1920') bottom no-repeat;
+    background: url('https://varivkusno.ru/wp-content/uploads/2025/10/logo-str.jpg') bottom no-repeat;
     background-size: cover;
 }
 
 h1 {
-    color: #c6e94e;
+    color: #c6c45f;
     font-size: 4rem;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -32,12 +32,12 @@ article {
 }
 
 article a {
-    color: #212529;
+    color: #770611;
     text-decoration: none;
 }
 
 article a:hover {
-    color: #0085a1;
+    color: #e02b72;
 }
 
 article h2 {
@@ -77,6 +77,6 @@ footer .links>a {
 }
 
 .copyright {
-    color: rgb(108, 117, 125);
+    color: rgb(76, 99, 17);
     font-family: 'Times New Roman', Times, serif;
 }
