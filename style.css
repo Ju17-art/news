@@ -28,6 +28,12 @@ h1 {
     background-color: #dddddd;
 }
 
+.news article:nth-child(-n+2) h2::before {
+    content: "New ";
+    color: #ff6b88;
+    font-weight: bold;
+}
+
 article {
     width: 768px;
     margin: 0 auto 32px;
